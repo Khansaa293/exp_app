@@ -25,7 +25,7 @@ Contributions are welcome! To contribute:
 4. Submit a pull request.
 
 ##  Contact Information
-- GitHub: [@esoo131](https://github.com/esoo131)
+- GitHub: [@khansaa293](https://github.com/esoo131)
 - Email: esoojamal2001@gmail.com
 
 ##  License
